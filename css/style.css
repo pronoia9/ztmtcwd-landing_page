@@ -1,6 +1,8 @@
 @font-face {
   font-family: 'Grand Hotel';
-  src: url('fonts/GrandHotel-Regular.ttf') format('truetype');
+  src: url('/fonts/GrandHotel-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
 }
 .form-control::-moz-placeholder {
   color: #ddd;
