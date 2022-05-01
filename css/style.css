@@ -14,6 +14,9 @@
   color: #ddd;
   opacity: 1;
 }
+* {
+  font-family: 'Montserrat', sans-serif;
+}
 a {
   color: #2c93ff;
 }
@@ -1091,7 +1094,4 @@ fieldset[disabled] .btn-warning:hover {
 }
 .uppercase {
   text-transform: uppercase;
-}
-.montserrat {
-  font-family: 'Montserrat', sans-serif;
 }
