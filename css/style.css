@@ -1092,3 +1092,6 @@ fieldset[disabled] .btn-warning:hover {
 .uppercase {
   text-transform: uppercase;
 }
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
