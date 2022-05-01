@@ -50,5 +50,6 @@
 
 <hr />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronoia9&theme=dark" alt="pronoia9" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoia9&show_icons=true&theme=dark&locale=en" alt="pronoia9" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronoia9&show_icons=true&theme=dark&locale=en&layout=compact" alt="pronoia9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronoia9&theme=dark" alt="pronoia9" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoia9&show_icons=true&theme=dark&locale=en" alt="pronoia9" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronoia9&show_icons=true&theme=dark&locale=en&layout=compact" alt="pronoia9" /></p>
